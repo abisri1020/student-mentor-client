@@ -176,7 +176,7 @@ const ChangeMentors = () => {
               </ul>
 
               <button
-                className="btn1 btn-primary mt-4 rounded fw-bold"
+                className="btn1 btn-success mt-4 rounded fw-bold"
                 onClick={finalAssignHandler}
               >
                 Change Mentor
